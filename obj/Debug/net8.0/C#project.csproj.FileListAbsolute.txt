@@ -1,0 +1,14 @@
+/Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/C#project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/C#project.AssemblyInfoInputs.cache
+/Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/C#project.AssemblyInfo.cs
+/Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/C#project.csproj.CoreCompileInputs.cache
+/Users/tarawiedeman/Desktop/Brainstation/C#project/bin/Debug/net8.0/C#project
+/Users/tarawiedeman/Desktop/Brainstation/C#project/bin/Debug/net8.0/C#project.deps.json
+/Users/tarawiedeman/Desktop/Brainstation/C#project/bin/Debug/net8.0/C#project.runtimeconfig.json
+/Users/tarawiedeman/Desktop/Brainstation/C#project/bin/Debug/net8.0/C#project.dll
+/Users/tarawiedeman/Desktop/Brainstation/C#project/bin/Debug/net8.0/C#project.pdb
+/Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/C#project.dll
+/Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/refint/C#project.dll
+/Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/C#project.pdb
+/Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/C#project.genruntimeconfig.cache
+/Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/ref/C#project.dll

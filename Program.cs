@@ -1,0 +1,13 @@
+﻿Console.WriteLine("What is your name?");
+var name = Console.ReadLine();
+var currentDate = DateTime.Now;
+Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d}");
+Console.WriteLine($"{Environment.NewLine}It's a beautiful day!");
+Console.WriteLine($"{Environment.NewLine}What's your mood today?");
+var mood = Console.ReadLine();
+Console.WriteLine($"{Environment.NewLine} I can imagine you're feeling {mood}");
+Console.WriteLine($"{Environment.NewLine} What activity would you like to do today?");
+var activity = Console.ReadLine(); 
+Console.WriteLine($"{Environment.NewLine} Well {activity} sure sounds great!");
+Console.Write($"{Environment.NewLine}Press any key to exit...");
+Console.ReadKey(true);
