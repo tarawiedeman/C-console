@@ -12,3 +12,4 @@
 /Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/C#project.pdb
 /Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/C#project.genruntimeconfig.cache
 /Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/ref/C#project.dll
+/Users/tarawiedeman/Desktop/Brainstation/C#project/obj/Debug/net8.0/C#project.sourcelink.json
