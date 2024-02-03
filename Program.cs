@@ -41,6 +41,14 @@ class Program
                 Part7();
                 break;
 
+            case "8":
+                Part8();
+                break;
+            
+            case "9":
+                Part9();
+                break;
+
             default:
                 Console.WriteLine("Invalid argument. Please use 1, 2, or 3.");
                 break;
@@ -139,5 +147,48 @@ class Program
       }
        
     }
+
+    static void Part8(){
+        int firstValue = 500;
+        int secondValue = 600;
+        
+
+        int largerValue = Math.Max(firstValue,secondValue);
+        Console.WriteLine(largerValue);
+    }
+
+    static void Part9() {
+
+        Random dice = new Random();
+
+int roll1 = dice.Next(1, 7);
+int roll2 = dice.Next(1, 7);
+int roll3 = dice.Next(1, 7);
+
+int total = roll1 + roll2 + roll3;
+
+Console.WriteLine($"Dice roll: {roll1} + {roll2} + {roll3} = {total}");
+
+if ((roll1 == roll2) || (roll1 == roll3) || (roll2 == roll3) ){
+
+    Console.WriteLine($"Double points!");
+    total+=2;
+}
+
+if ((roll1==roll2) && (roll2==roll3)) {
+    Console.WriteLine($"Triple points!");  
+    total+=6;
+}
+
+if (total >=15) {
+    Console.WriteLine($"You win!");
+}
+
+if (total <15) {
+    Console.WriteLine($"You lose");
+}
+
+}
+
 }
 
